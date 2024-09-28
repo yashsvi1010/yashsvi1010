@@ -1,10 +1,11 @@
 - 👋 Hi, I’m @yashsvi1010
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactJS: (In Progress) I’m actively learning React and starting to integrate components into my portfolio.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me yashsvisingh10000@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 You can reach me at:
+
+ 📧Email: yashsvisingh97@gmail.com
+🧾LinkedIn: www.linkedin.com/in/yashsvi-singh-28093b178
 
 <!---
 yashsvi1010/yashsvi1010 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
