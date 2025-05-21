@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @yashsvi1010
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @Yashsvi Singh
 - 🌱 I’m currently learning ReactJS: (In Progress) I’m actively learning React and starting to integrate components into my portfolio.
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at:
 
  📧Email: yashsvisingh97@gmail.com
